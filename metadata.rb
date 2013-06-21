@@ -1,6 +1,6 @@
 name             'chkrootkit'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'gregpalmier'
+maintainer_email 'gregpalmier@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures chkrootkit'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
