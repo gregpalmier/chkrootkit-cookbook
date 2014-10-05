@@ -12,8 +12,8 @@ package 'chkrootkit' do
 end
 
 template '/etc/chkrootkit.conf' do
- source 'chkrootkit.conf.erb'
- owner 'root'
- group 0
- mode 00644
+  source 'chkrootkit.conf.erb'
+  owner 'root'
+  group 0
+  mode 00644
 end
