@@ -1,5 +1,8 @@
 chkrootkit Cookbook
 ===================
+
+[![Build Status](https://secure.travis-ci.org/gregpalmier/chkrootkit-cookbook.png)](http://travis-ci.org/gregpalmier/chkrootkit-cookbook)
+
 Chef cookbook for the chkrootkit scanner
 
 Requirements
